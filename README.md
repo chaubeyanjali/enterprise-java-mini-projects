@@ -25,7 +25,7 @@ enterprise-java-mini-projects/
 ├── 01-BookVault/              # Book Management System (JPA + JSP)
 │   └── README.md              # Project-specific setup & details
 │
-├── 02-Next-Project/            # (added when committed)
+├── 02-GuestConnect/            # Guest Book Management System (JPA + JSP)
 │   └── README.md
 │
 └── ...
@@ -76,6 +76,7 @@ While exact requirements differ per project, you'll generally need:
 | # | Project | Description | Key Concepts |
 |---|---|---|---|
 | 01 | [BookVault](./01-BookVault) | Book Management System — a simple JPA application to store and retrieve book details | JSP, JPA, GlassFish, MySQL |
+| 02 | [GuestConnect](./02-GuestConnect) | Guest Book Management System — a JPA application to save and view guest entries | JSP, JPA, GlassFish, MySQL |
 
 *(This table grows as new mini projects are committed.)*
 
@@ -94,6 +95,11 @@ Please keep each project self-contained, with its own README describing setup st
 ## 📄 License
 
 This repository is open source and available under the [MIT License](LICENSE).
+
+## 🙋 Author
+
+Maintained by [Your Name]. Feel free to reach out with questions or suggestions!
+
 
 ## 🙋 Author
 
